@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Elementos, herramientas y normas de seguridad en producción',
+    descripcionCurso:
+      'Este componente sintetiza el conjunto de saberes que configuran la propuesta inicial del diseño de un producto mobiliario bajo los requerimientos y necesidades de un cliente y hasta el momento de la producción, llegando a abarcar desde las generalidades del embalaje o empaque hasta las normas generales de seguridad en el espacio de trabajo y la disposición de residuos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
