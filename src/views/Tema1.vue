@@ -147,7 +147,7 @@
           .col-lg-7
             p Sin importar si el procedimiento es manual con brocha o con pistola neumático, o automatizado mediante brazos robóticos; el área de pintura y acabados debe ser aislada y libre de impurezas que requieran posteriormente revertir el proceso de pintura, aumentando los costos y ralentizando la producción.
           .col-lg-5.col-6: img(src='@/assets/curso/temas/tema1/26.png', alt='')
-
+    
       
 
 
