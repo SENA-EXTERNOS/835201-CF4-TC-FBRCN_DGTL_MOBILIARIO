@@ -125,16 +125,15 @@ export default {
     {
       tema: 'Técnicas para acabados de mobiliarios en madera',
       referencia:
-        'Centro de Innovación Tecnológica de la madera., (2015). Técnicas de acabados II: veteado y envejecido en madera natural y pintada.',
+        'Centro de Innovación Tecnológica de la madera., (2015). <em> Técnicas de acabados II: veteado y envejecido en madera natural y pintada.</em>]',
       tipo: 'Libro digital.',
       link:
         'https://cdn.www.gob.pe/uploads/document/file/1459426/08.%20T%C3%A9cnicas%20de%20Acabados%20II%20Veteado%20y%20envejecidos%20en%20madera%20natural%20y%20pintada.pdf.pdf',
     },
     {
-      tema:
-        'Técnicas para acabados de mobiliarios en madera Identificación y manejo de herramientas',
+      tema: 'Técnicas para acabados de mobiliarios en madera ',
       referencia:
-        'Condor., (s/f). Productos línea madera. Conceptos básicos de madera, bases y sustratos. Fundación Suyana. (2017). Manual básico de carpintería. (1ª ed.). ',
+        'Condor., (s/f). <em> Productos línea madera. Conceptos básicos de madera, bases y sustratos.<em> Fundación Suyana. (2017). Manual básico de carpintería. (1ª ed.). ',
       tipo: 'Manual en línea.',
       link:
         'https://www.pinturascondor.com/wp-content/uploads/2019/11/manual-linea-madera.pdf',
@@ -142,7 +141,7 @@ export default {
     {
       tema: 'Identificación y manejo de herramientas',
       referencia:
-        'Fundación Suyana. (2017). Manual básico de carpintería. (1ª ed.). ',
+        'Fundación Suyana. (2017). <em> Manual básico de carpintería.</em> (1ª ed.). ',
       tipo: 'Manual en línea.',
       link:
         'https://suyana.org/wp-content/uploads/2021/07/Handbook_Carpentry.pdf      ',
@@ -150,7 +149,7 @@ export default {
     {
       tema: 'Mantenimiento básico de equipos para la producción',
       referencia:
-        'García, S., (Ed.). (2009). Mantenimiento correctivo organización y gestión de la reparación de las averías. ',
+        'García, S., (Ed.). (2009). <em> Mantenimiento correctivo organización y gestión de la reparación de las averías.</em> ',
       tipo: 'Manual en línea.',
       link:
         'http://www.renovetec.com/mantenimientoindustrial-vol4-correctivo.pdf      ',
@@ -158,7 +157,7 @@ export default {
     {
       tema: 'Mantenimiento básico de equipos para la producción',
       referencia:
-        'SIMA. (s/f). Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo. ',
+        'SIMA. (s/f). <em> Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</em> ',
       tipo: 'Manual en línea.',
       link:
         'http://www.mantenimientoplanificado.com/j%20guadalupe%20articulos/MANTENIMIENTO%20PREVENTIVO%20parte%201.pdf',
@@ -236,31 +235,31 @@ export default {
   referencias: [
     {
       referencia:
-        'Centro de Innovación Tecnológica de la madera., (2015). Técnicas de acabados II: veteado y envejecido en madera natural y pintada. ',
+        'Centro de Innovación Tecnológica de la madera., (2015). <em> Técnicas de acabados II: veteado y envejecido en madera natural y pintada.</em> ',
       link:
         'https://cdn.www.gob.pe/uploads/document/file/1459426/08.%20T%C3%A9cnicas%20de%20Acabados%20II%20Veteado%20y%20envejecidos%20en%20madera%20natural%20y%20pintada.pdf.pdf',
     },
     {
       referencia:
-        'Condor., (s/f). Productos línea madera. Conceptos básicos de madera, bases y sustratos.',
+        'Condor., (s/f). <em> Productos línea madera. Conceptos básicos de madera, bases y sustratos.</em>',
       link:
         'https://www.pinturascondor.com/wp-content/uploads/2019/11/manual-linea-madera.pdf',
     },
     {
       referencia:
-        'Fundación Suyana. (2017). Manual básico de carpintería. (1ª ed.). ',
+        'Fundación Suyana. (2017). <em> Manual básico de carpintería.</em> (1ª ed.). ',
       link:
         'https://suyana.org/wp-content/uploads/2021/07/Handbook_Carpentry.pdf',
     },
     {
       referencia:
-        'García, S., (Ed.). (2009). Mantenimiento correctivo organización y gestión de la reparación de las averías. ',
+        'García, S., (Ed.). (2009). <em> Mantenimiento correctivo organización y gestión de la reparación de las averías.</em> ',
       link:
         'http://www.renovetec.com/mantenimientoindustrial-vol4-correctivo.pdf',
     },
     {
       referencia:
-        'SIMA. (s/f). Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.',
+        'SIMA. (s/f). <em> Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</em> ',
       link:
         'http://www.mantenimientoplanificado.com/j%20guadalupe%20articulos/MANTENIMIENTO%20PREVENTIVO%20parte%201.pdf',
     },

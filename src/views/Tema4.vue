@@ -7,34 +7,35 @@
         span 4
       h1 Pegantes, sellantes, embalaje y empaque
     .row.justify-content-center.mb-5
-      .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/1.png', alt='')
+      .col-lg-4.col-10.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/1.png', alt='')
       .col-lg-6(data-aos="fade-left")
         p Los pegantes sellantes y selladores determinan en gran medida la correcta función del producto, las acciones de embalaje y empaque de los prototipos o productos mobiliarios.
         .cajon.color-secundario(style="background-color: #f6f6f6 ").p-4.mb-4
-          p Como se ha visto es importante aplicar sellantes a las maderas que se utilizarán en ambientes exteriores y que se encontrarán expuestas a condiciones ambientales, que s eventual y comparativamente reducirán el tiempo de vida útil del producto, respecto a los elaborados de usos de interiores. 
+          p Como se ha visto es importante aplicar sellantes a las maderas que se utilizarán en ambientes exteriores y que se encontrarán expuestas a condiciones ambientales, qué  eventual y comparativamente reducirán el tiempo de vida útil del producto, respecto a los elaborados de usos de interiores. 
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Selladores
     p.mb-5(data-aos='fade-right') A continuación, se examinarán un poco más las consideraciones, composición y cuidado general que se debe tener cuando se utiliza un sellador en un producto mobiliario de madera. La información presentada se basa en lo presentado por la Fundación Suyana, (2017).
     .row.justify-content-center.mb-5
-      .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/2.png', alt='')
+      .col-lg-4.col-6(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/2.png', alt='')
       .col-lg-8
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          div(titulo="Composición")
-            p Los selladores de madera normalmente se encuentran en el mercado en composiciones a base de nitrocelulosa y en presentaciones que van desde un octavo de galón hasta toneles de 200 litros. 
-          div(titulo="Características y propiedades")
-            p La composición, gracias a la nitrocelulosa ofrece características y propiedades de las resinas sintéticas plastificantes. 
-          div(titulo="Sellado de poros en superficies")
-            p Los selladores se utilizan en piezas o maderas sin curar con el objetivo de sellar poros en la superficie; es ideal en la aplicación de estos en aglomerados, muebles para exteriores e interiores composiciones ornamentales y todo tipo de producto fabricado a partir de madera. 
-          div(titulo="Ahorro")
-            p La aplicación y ventajas de aplicar este tipo de producto en la madera radica principalmente en el ahorro de pintura o barniz de acabado. 
-          div(titulo="Nivelación de superficies")
-            p En la nivelación de la superficie puede ser utilizado como acabado superficial en productos que no son expuestos a la superficie. 
-          div(titulo="Precauciones")
-            p Se deben tener precauciones al momento de llevar a cabo su aplicación, pues la mayoría de los selladores son inflamables y tóxicos. 
+        .acordion-diferente
+          AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azulada")
+            div(titulo="Composición")
+              p Los selladores de madera normalmente se encuentran en el mercado en composiciones a base de nitrocelulosa y en presentaciones que van desde un octavo de galón hasta toneles de 200 litros. 
+            div(titulo="Características y propiedades")
+              p La composición, gracias a la nitrocelulosa ofrece características y propiedades de las resinas sintéticas plastificantes. 
+            div(titulo="Sellado de poros en superficies")
+              p Los selladores se utilizan en piezas o maderas sin curar con el objetivo de sellar poros en la superficie; es ideal en la aplicación de estos en aglomerados, muebles para exteriores e interiores composiciones ornamentales y todo tipo de producto fabricado a partir de madera. 
+            div(titulo="Ahorro")
+              p La aplicación y ventajas de aplicar este tipo de producto en la madera radica principalmente en el ahorro de pintura o barniz de acabado. 
+            div(titulo="Nivelación ")
+              p En la nivelación de la superficie puede ser utilizado como acabado superficial en productos que no son expuestos a la superficie. 
+            div(titulo="Precauciones")
+              p Se deben tener precauciones al momento de llevar a cabo su aplicación, pues la mayoría de los selladores son inflamables y tóxicos. 
     .row.justify-content-center.mb-5
       .col-lg-8
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema4/3.jpg')})`}"
           )
@@ -101,7 +102,7 @@
         .tarjeta(style="background-color: #f3f9ff ").p-5.h-100
           img(src='@/assets/curso/temas/tema4/9.svg', alt='').m-auto.mb-3
           .text-center
-            h5 Superficies sin curar
+            h5 Secado
             p Se recomienda dejar secar el pegante mediante la aplicación de fuerza con prensas o sargentas.
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -114,14 +115,14 @@
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Embalaje
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/11.png', alt='')
+      .col-lg-5.col-10(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/11.png', alt='')
       .col-lg-7
         p Una vez revisados los pegantes y sellantes y sus resultados en las piezas que conforman un prototipo o producto, es importante tener en cuenta la operación de embalaje del prototipo o producto terminado; esta corresponde a la manera en la cual desde la producción el operario, diseñador, carpintero o ebanista, protege, recubre y separa el producto final o las piezas que lo conforman, para luego ser empacado en un contenedor, caja o similar, que será la manera en la cual lo recibirá un distribuidor o cliente final. Estas operaciones son importantes ya que un adecuado embalaje garantiza la integridad del producto hasta su destino final.
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta(style="background-color: #e3f2fd ").p-5
           .row.justify-content-center.align-items-center.mb-5
-            .col-lg-4.col-6: img(src='@/assets/curso/temas/tema4/12.png', alt='')
+            .col-lg-4.col-10: img(src='@/assets/curso/temas/tema4/12.png', alt='')
             .col-lg-8
               p.mb-0 El empaque, aunque no haga parte del producto final, corresponde a la primera impresión o contacto que tendrá el cliente con el producto antes de utilizarlo; es por esto por lo que su diseño juega un papel importante al momento de pensar en la construcción y terminación de un producto.
 

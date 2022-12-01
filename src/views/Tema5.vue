@@ -12,21 +12,21 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p La seguridad en el trabajo en el proceso de diseño y producción de mobiliario al igual que en cualquier otro campo de la producción, está dada por una serie de criterios y consideraciones orientadas a mantener la integridad física y mental del trabajador y de quienes intervienen en cualquier actividad del proceso productivo. 
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema5/1.png', alt='')
+          .col-md-6.col-10: img(src='@/assets/curso/temas/tema5/1.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p La seguridad en los espacios de trabajo como el taller o laboratorio de producción debe estar dada principalmente por la conciencia situacional de quienes laboran en el lugar.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema5/2.png', alt='')
+          .col-md-6.col-10: img(src='@/assets/curso/temas/tema5/2.png', alt='')
     p.mb-5(data-aos='fade-right') Las normas de seguridad en el espacio de trabajo se dan bajo varios parámetros.
     .row.justify-content-center.mb-5
       .col-lg-4
-        .tarjeta(style="background-color: #f3f9ff ").p-5.h-100
+        .tarjeta(style="background-color: #e3f1fc ").p-5.h-100.box-s
           img(src='@/assets/curso/temas/tema5/3.png', alt='').m-auto.mb-3
           .text-center
             h5 Elementos de protección
             p El uso correcto y adecuado de los elementos de protección personal.
       .col-lg-4
-        .tarjeta(style="background-color: #f3f9ff ").p-5.h-100
+        .tarjeta(style="background-color: #e3f1fc ").p-5.h-100.box-s
           img(src='@/assets/curso/temas/tema5/4.png', alt='').m-auto.mb-3
           .text-center
             h5 Medidas y condiciones
@@ -71,12 +71,12 @@
               p.mb-4 Se recomienda la revisión del decreto 1072 de 2015, el cual se regula desde el Sistema de Gestión de Seguridad y Salud en el Trabajo en Colombia y éste es de obligatorio cumplimiento y todas las empresas sin importar su naturaleza o tamaño, deben implementarlo. En este se definen los lineamientos y consideraciones necesarias para garantizar la salud en integridad de los trabajadores en sus espacios de actividades .
               .tarjeta.bg-white.d-flex.p-3.justify-content-between.align-items-center
                 h5.mb-0 Decreto 1072 de 2015
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173" target="_blank" type="application/pdf")
                   span Enlace
                   i.fas.fa-link
     .row.justify-content-center.mb-5
       .col-lg-10
-        .cajon.color-acenot-botones(style="background-color: #f1fcf3").p-4.mb-4
+        .cajon.color-acento-botones(style="background-color: #f1fcf3").p-4.mb-4
           p.mb-0 Es importante explorar los demás recursos que se encuentran disponibles en el presente componente formativo; para hacerlo en el menú principal se encontrará una síntesis, una actividad didáctica y material complementario, entre otros.
 
 </template>

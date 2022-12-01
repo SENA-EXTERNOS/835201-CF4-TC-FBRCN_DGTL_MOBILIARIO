@@ -11,7 +11,7 @@
         p Las herramientas constituyen uno de elementos más importantes en cualquier espacio de trabajo o taller de producción de mobiliario; existen herramientas altamente sofisticadas como las máquinas de control numérico computacional CNC, que realizan muchos trabajos de corte, acabado, pintura, lijado y cepillado de manera automática y con altos niveles de calidad. Por ende, es importante que el diseñador conozca que este tipo de herramientas se implementan cada vez más en los procesos de diseño y fabricación de mobiliarios debido a la practicidad y disminución de costos y tiempo de fabricación, (Fundación Suyana, 2017).
           br
           br
-          |#[b En este componente formativo se revisarán las herramientas más utilizadas en los procesos de fabricación de mobiliario de madera, esto teniendo en cuenta que en la fabricación de los mismos es posible combinar o contar con elementos o piezas en materiales metálicos y plásticos; los cuales en muchas ocasiones.]
+          |En este componente formativo se revisarán las herramientas más utilizadas en los procesos de fabricación de mobiliario de madera, esto teniendo en cuenta que en la fabricación de los mismos es posible combinar o contar con elementos o piezas en materiales metálicos y plásticos; los cuales en muchas ocasiones.
       .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/1.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -75,23 +75,23 @@
     p.mb-5(data-aos='fade-right') Las herramientas de medición, marcación y sujeción se presentan a continuación.
     TabsC.color-primario.mb-5
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de marcación")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p Estas son de las más conocidas incluso por fuera del campo de la carpintería. Dentro de estas se encuentran lápices y en ocasiones marcadores, vistos todos en los componentes anteriores. 
               br
               br
               |Existen herramientas de marcación tipo láser que se utilizan para agilizar y mejorar la precisión en la señalización de secciones. El marcador o nivel láser permite utilizar el destello de luz para hacer marcaciones precisas y cortes exactos sobre piezas y partes del producto de manera proyectada en secciones largas y cortas. 
-          .col-5: img(src='@/assets/curso/temas/tema2/6.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/6.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de medición")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p Estas son muy conocidas; dentro de las de medición encontramos las escuadras, reglas, metro, flexómetro y transportadores.
               br
               br
               |Existen herramientas de medición digitales que permiten gran precisión; entre estas los flexómetros, metros o medidores digitales permiten medir longitudes y separaciones hasta con tres décimas de exactitud.
-          .col-5: img(src='@/assets/curso/temas/tema2/7.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/7.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de sujeción")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p Como su nombre lo indica son herramientas de apoyo a la labor del diseñador, ebanista o carpintero que permiten sujetar y asegurar el material para operaciones de corte y perforado de piezas o secciones de piezas; esto para prevenir el movimiento brusco de éstas y garantizando la firmeza requerida para la obtención de un corte preciso o una perforación adecuada. 
               br
@@ -110,7 +110,7 @@
               li
                 i.fas.fa-circle.fa-xs
                 p.mb-0 #[b Prensa de banco:] son prensas fijas que brindan gran fuerza de sujeción, se utilizan para operaciones de corte y de perforación y su fabricación es en hierro.
-          .col-5: img(src='@/assets/curso/temas/tema2/8.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/8.png', alt='')
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Herramientas de corte, perforación, lijado y desbaste
@@ -159,7 +159,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.1 Mantenimiento básico de equipos para la producción
     .row.justify-content-center.mb-5
-      .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/9.png', alt='')
+      .col-lg-4.col-10(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/9.png', alt='')
       .col-lg-8 
         p La adquisición de herramientas representa un componente y esfuerzo económico o financiero por parte del diseñador, carpintero o ebanista; en este sentido, el correcto y adecuado mantenimiento de éstas permite condiciones de trabajo cómodas y seguras, estos cuidados ayudan además a la conservación de la inversión realizada.
         .cajon.color-primario(style="background-color: #e2e5ea").p-4.mb-4
@@ -192,17 +192,18 @@
     p.mb-5(data-aos='fade-right') En relación con las prácticas de mantenimiento, se deben tener en cuenta las siguientes observaciones:
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-right")
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Material particulado")
-            p El factor que más influye o afecta la operación normal de las herramientas para la producción de mobiliario es el polvo o material particulado (viruta) desprendido de la madera procesada. En este caso en particular, la limpieza continua y lubricación con aceites sintéticos, es fundamental.
-          div(titulo="Roce entre componentes")
-            p En maquinaria o herramientas de rotación como prensas, sierras, etc. el roce continuo entre sus componentes requiere limpieza y lubricación constante; a esta práctica se le denomina tribología.
-          div(titulo="Para las herramientas de corte")
-            p En el caso de estas herramientas tanto eléctricas como manuales es importante tener en cuenta que los componentes son fabricados en acero y están sujetos a oxidación y pérdida de filo, la verificación del estado de estos es fundamental para la preservación de la herramienta completa. 
-          div(titulo="Para las herramientas eléctricas")
-            p Para estas los contactos de los cables internos son susceptibles a oxidación o daño por contaminación de material particulado y humedad.
-          div(titulo="Para las herramientas neumáticas")
-            p Para estas aplican las mismas consideraciones que aquellas encargadas del corte respecto a la lubricación e inspección en las juntas o uniones con la línea de aire para la prevención de fugas y pérdida de presión.
+        .acoridon-b
+          AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+            div(titulo="Material particulado")
+              p El factor que más influye o afecta la operación normal de las herramientas para la producción de mobiliario es el polvo o material particulado (viruta) desprendido de la madera procesada. En este caso en particular, la limpieza continua y lubricación con aceites sintéticos, es fundamental.
+            div(titulo="Roce entre componentes")
+              p En maquinaria o herramientas de rotación como prensas, sierras, etc. el roce continuo entre sus componentes requiere limpieza y lubricación constante; a esta práctica se le denomina tribología.
+            div(titulo="Para las herramientas de corte")
+              p En el caso de estas herramientas tanto eléctricas como manuales es importante tener en cuenta que los componentes son fabricados en acero y están sujetos a oxidación y pérdida de filo, la verificación del estado de estos es fundamental para la preservación de la herramienta completa. 
+            div(titulo="Para las herramientas eléctricas")
+              p Para estas los contactos de los cables internos son susceptibles a oxidación o daño por contaminación de material particulado y humedad.
+            div(titulo="Para las herramientas neumáticas")
+              p Para estas aplican las mismas consideraciones que aquellas encargadas del corte respecto a la lubricación e inspección en las juntas o uniones con la línea de aire para la prevención de fugas y pérdida de presión.
       .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/13.png', alt='')
     p.mb-5(data-aos='fade-right') La siguiente infografía se presenta con base a la clasificación de herramientas presentada anteriormente; en esta se indica el tipo de práctica de mantenimiento preventivo más pertinente para la adecuada y correcta operación y prolongación de vida útil de las mismas.
     h3.text-center Acciones de mantenimiento recomendadas a herramientas de producción de mobiliario
@@ -258,20 +259,20 @@
     p.mb-5(data-aos='fade-right') Los materiales más usados para el proceso de los acabados y algunas de sus aplicaciones.
     TabsC.color-primario.mb-5
       .py-4.py-md-5.bg-pestanas(titulo="Masilla plástica para madera")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p En ocasiones al finalizar el proceso de ensamble pero antes de iniciar con la fase de acabados, es muy probable que se hayan generado grietas o daños sobre partes o secciones de las piezas del producto, estas afectaciones por lo general tienen cierta profundidad sobre la madera que de no ser debidamente tratadas ocasionan distorsión en la presentación final del producto; generando una mala percepción o sensación antiestética por parte del cliente, para estos casos, se utilizan las masillas plástica para madera. Estas masillas se aplican sobre las imperfecciones con espátulas o de manera manual con tiempos de secado entre los 15 y 30 minutos, las presentaciones en las que se pueden presentar de manera comercial son tonos de maderas claros y oscuros.
-          .col-5: img(src='@/assets/curso/temas/tema2/16.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/16.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Lacas y esmaltes")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p Son otros tipos de recubrimientos que otorgan un acabado brillante a la superficie sobre la cual se aplica; su aplicación puede ser efectuada con brocha plana o pistola de aire a presión, luego de un tiempo de secado de 30 a 60 minutos, puede aplicarse mediante pulidora de paño y capas de brillado.
-          .col-5: img(src='@/assets/curso/temas/tema2/17.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/17.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Barnices")
-        .row.justify-content-between.align-item-center.px-3
+        .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
             p Se utilizan con funcionalidades similares a las lacas, pero a diferencia de estas, los tiempos de secado pueden variar entre 8 y 12 horas.
-          .col-5: img(src='@/assets/curso/temas/tema2/18.png', alt='')
+          .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/18.png', alt='')
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Técnicas más usadas para la aplicación de los acabados
@@ -284,26 +285,26 @@
               br
               br
               |Ejemplo de técnica de veteado sobre madera.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema2/19.png', alt='')
+          .col-md-4.col-10: img(src='@/assets/curso/temas/tema2/19.png', alt='')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Técnica de envejecido: generalmente cuando algo es viejo muchas veces en vez de perder valor decorativo, lo gana. Una de las curiosas tendencias de la moda es el uso de muebles antiguos o el uso de la técnica de envejecimiento sobre muebles nuevos con el propósito de darle la apariencia de viejo. La técnica de acabado envejecido en madera natural busca dar la apariencia de viejo a un mueble recién fabricado. (Centro de Innovación Tecnológica de la madera, 2015).
               br
               br
               |Ejemplo de técnica de envejecido aplicado sobre producto mobiliario terminado.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema2/20.png', alt='')
+          .col-md-4.col-10: img(src='@/assets/curso/temas/tema2/20.png', alt='')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Resinas epóxicas: mediante el uso de resinas epóxicas es posible conseguir acabados llamativos e interesantes mediante la combinación de diferentes materiales con la madera.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema2/21.png', alt='')
+          .col-md-4.col-10: img(src='@/assets/curso/temas/tema2/21.png', alt='')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Ejemplo de proceso con resina: proceso de vertimiento de resinas y el efecto que produce sobre la pieza, prototipo o producto terminado.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema2/22.png', alt='')
+          .col-md-4.col-10: img(src='@/assets/curso/temas/tema2/22.png', alt='')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Ejemplo de proceso con resina: proceso de vertimiento de resinas y el efecto que produce sobre la pieza, prototipo o producto terminado.
-          .col-md-4.col-6: img(src='@/assets/curso/temas/tema2/23.png', alt='')
+          .col-md-4.col-10: img(src='@/assets/curso/temas/tema2/23.png', alt='')
 
 
 </template>
@@ -341,7 +342,7 @@ export default {
     bottom: 0
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: rgba(#d0f2d7, .9)
+    background-color: #d0f2d7
 .crd_hover2_txt
   position: relative
   padding: 0 !important
