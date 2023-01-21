@@ -47,7 +47,7 @@
     p.mb-5(data-aos='fade-right') Otros productos que muy utilizados en la producción de mobiliario de madera son los sellantes; estos normalmente se encuentran en el mercado con la presentación de siliconas utilizadas para la unión de partes ya sea entre maderas o entre estas y otros materiales. 
       br
       br
-      | Estos productos cumplen su función de sellante en la medida que se utilizan en.
+      | Los sellantes son productos que cumplen su función, en la medida que se utilizan de forma correcta:
     .row.justify-content-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/4.png', alt='')
       .col-lg-8
@@ -90,7 +90,7 @@
         p Los sellantes también se pueden utilizar con fines de pegado como se vio anteriormente, sin embargo, el pegante tipo madera o acetato de polivinilo ofrece mejores resultados en la madera.
           br
           br
-          | Para la aplicación del pegante se deben tener en cuenta los siguientes puntos.
+          | Para la aplicación del pegante, se deben tener en cuenta las siguientes recomendaciones:
     .row.justify-content-center.mb-5
       .col-lg-4
         .tarjeta(style="background-color: #f3f9ff ").p-5

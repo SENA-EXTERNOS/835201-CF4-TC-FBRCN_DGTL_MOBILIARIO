@@ -6,16 +6,7 @@ export default {
       'Este componente sintetiza el conjunto de saberes que configuran la propuesta inicial del diseño de un producto mobiliario bajo los requerimientos y necesidades de un cliente y hasta el momento de la producción, llegando a abarcar desde las generalidades del embalaje o empaque hasta las normas generales de seguridad en el espacio de trabajo y la disposición de residuos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      // {
-      //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      // },
-      // {
-      //   clases: ['banner-principal-decorativo-2'],
-      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      // },
-    ],
+    imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
     menu: [
@@ -123,17 +114,17 @@ export default {
   },
   complementario: [
     {
-      tema: 'Técnicas para acabados de mobiliarios en madera',
+      tema: 'Identificación y manejo de herramientas ',
       referencia:
-        'Centro de Innovación Tecnológica de la madera., (2015). <em> Técnicas de acabados II: veteado y envejecido en madera natural y pintada.</em>]',
+        'Centro de Innovación Tecnológica de la madera. (2015). <i>Técnicas de acabados II: veteado y envejecido en madera natural y pintada</i>. ',
       tipo: 'Libro digital.',
       link:
         'https://cdn.www.gob.pe/uploads/document/file/1459426/08.%20T%C3%A9cnicas%20de%20Acabados%20II%20Veteado%20y%20envejecidos%20en%20madera%20natural%20y%20pintada.pdf.pdf',
     },
     {
-      tema: 'Técnicas para acabados de mobiliarios en madera ',
+      tema: 'Técnicas para acabados de mobiliarios en madera',
       referencia:
-        'Condor., (s/f). <em> Productos línea madera. Conceptos básicos de madera, bases y sustratos.<em> Fundación Suyana. (2017). Manual básico de carpintería. (1ª ed.). ',
+        'Condor. (s.f.). <i>Productos línea madera. Conceptos básicos de madera, bases y sustratos.</i>',
       tipo: 'Manual en línea.',
       link:
         'https://www.pinturascondor.com/wp-content/uploads/2019/11/manual-linea-madera.pdf',
@@ -141,7 +132,7 @@ export default {
     {
       tema: 'Identificación y manejo de herramientas',
       referencia:
-        'Fundación Suyana. (2017). <em> Manual básico de carpintería.</em> (1ª ed.). ',
+        'Fundación Suyana. (2017). <i>Manual básico de carpintería.</i> (1ª ed.). ',
       tipo: 'Manual en línea.',
       link:
         'https://suyana.org/wp-content/uploads/2021/07/Handbook_Carpentry.pdf      ',
@@ -149,15 +140,15 @@ export default {
     {
       tema: 'Mantenimiento básico de equipos para la producción',
       referencia:
-        'García, S., (Ed.). (2009). <em> Mantenimiento correctivo organización y gestión de la reparación de las averías.</em> ',
+        'García, S. (2009). <i>Mantenimiento correctivo organización y gestión de la reparación de las averías</i>.',
       tipo: 'Manual en línea.',
       link:
         'http://www.renovetec.com/mantenimientoindustrial-vol4-correctivo.pdf      ',
     },
     {
-      tema: 'Mantenimiento básico de equipos para la producción',
+      tema: 'Identificación y manejo de herramientas',
       referencia:
-        'SIMA. (s/f). <em> Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</em> ',
+        'SIMA. (s.f.). <i>Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</i>',
       tipo: 'Manual en línea.',
       link:
         'http://www.mantenimientoplanificado.com/j%20guadalupe%20articulos/MANTENIMIENTO%20PREVENTIVO%20parte%201.pdf',
@@ -235,31 +226,31 @@ export default {
   referencias: [
     {
       referencia:
-        'Centro de Innovación Tecnológica de la madera., (2015). <em> Técnicas de acabados II: veteado y envejecido en madera natural y pintada.</em> ',
+        'Centro de Innovación Tecnológica de la madera. (2015).<i> Técnicas de acabados II: veteado y envejecido en madera natural y pintada</i>. ',
       link:
         'https://cdn.www.gob.pe/uploads/document/file/1459426/08.%20T%C3%A9cnicas%20de%20Acabados%20II%20Veteado%20y%20envejecidos%20en%20madera%20natural%20y%20pintada.pdf.pdf',
     },
     {
       referencia:
-        'Condor., (s/f). <em> Productos línea madera. Conceptos básicos de madera, bases y sustratos.</em>',
+        'Condor. (s.f.).<i> Productos línea madera. Conceptos básicos de madera, bases y sustratos</i>.',
       link:
         'https://www.pinturascondor.com/wp-content/uploads/2019/11/manual-linea-madera.pdf',
     },
     {
       referencia:
-        'Fundación Suyana. (2017). <em> Manual básico de carpintería.</em> (1ª ed.). ',
+        'Fundación Suyana. (2017). <i>Manual básico de carpintería.</i> (1ª ed.). ',
       link:
         'https://suyana.org/wp-content/uploads/2021/07/Handbook_Carpentry.pdf',
     },
     {
       referencia:
-        'García, S., (Ed.). (2009). <em> Mantenimiento correctivo organización y gestión de la reparación de las averías.</em> ',
+        'García, S. (2009).<i> Mantenimiento correctivo organización y gestión de la reparación de las averías.</i>',
       link:
         'http://www.renovetec.com/mantenimientoindustrial-vol4-correctivo.pdf',
     },
     {
       referencia:
-        'SIMA. (s/f). <em> Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</em> ',
+        'SIMA. (s.f.).<i> Artículos y productos de bajo coste para mantenimiento, mantenimiento preventivo.</i>',
       link:
         'http://www.mantenimientoplanificado.com/j%20guadalupe%20articulos/MANTENIMIENTO%20PREVENTIVO%20parte%201.pdf',
     },

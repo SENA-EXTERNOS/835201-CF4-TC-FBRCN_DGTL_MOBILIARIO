@@ -8,10 +8,10 @@
       h1 Identificación y manejo de herramientas
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-right")
-        p Las herramientas constituyen uno de elementos más importantes en cualquier espacio de trabajo o taller de producción de mobiliario; existen herramientas altamente sofisticadas como las máquinas de control numérico computacional CNC, que realizan muchos trabajos de corte, acabado, pintura, lijado y cepillado de manera automática y con altos niveles de calidad. Por ende, es importante que el diseñador conozca que este tipo de herramientas se implementan cada vez más en los procesos de diseño y fabricación de mobiliarios debido a la practicidad y disminución de costos y tiempo de fabricación, (Fundación Suyana, 2017).
+        p Las herramientas constituyen los elementos más importantes en cualquier espacio de trabajo o taller de producción de mobiliario; existen herramientas altamente sofisticadas como las máquinas de control numérico computacional CNC, que realizan trabajos de corte, acabado, pintura, lijado y cepillado de manera automática y con altos niveles de calidad. Por lo tanto, es importante que el diseñador conozca que este tipo de herramientas se implementan cada vez más en los procesos de diseño y fabricación de mobiliarios, debido a la funcionalidad, disminución de costos y tiempo de fabricación.
           br
           br
-          |En este componente formativo se revisarán las herramientas más utilizadas en los procesos de fabricación de mobiliario de madera, esto teniendo en cuenta que en la fabricación de los mismos es posible combinar o contar con elementos o piezas en materiales metálicos y plásticos; los cuales en muchas ocasiones.
+          |En este componente formativo, se revisarán las herramientas más utilizadas en los procesos de fabricación de mobiliario de madera, teniendo en cuenta que, en la fabricación de los mismos, es posible combinar o contar con elementos o piezas en materiales metálicos y plásticos.
       .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/1.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -216,27 +216,27 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5
             p Aplicación de lubricación en ejes y piezas móviles, verificación de estado de los elementos de cortes como los dientes de la sierras, limpieza y remoción de viruta de corte.
-          .col-lg-7.col-6: img(src='@/assets/curso/temas/tema2/in1.png', alt='')
+          .col-lg-7.col-6: img.img-a.img-t(src='@/assets/curso/temas/tema2/in1.png', alt='')
       div(x="30.4%" y="28%" tooltip="Abrir modal" numero="")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5
             p Aplicación de lubricación en eje, verificación de estado brocas y/o extensores, limpieza y remoción de viruta producto de la perforación; en caso de neumáticos adicionalmente verificar acople a línea de aire.
-          .col-lg-7.col-6: img(src='@/assets/curso/temas/tema2/in2.png', alt='')
+          .col-lg-7.col-6: img.img-a.img-t(src='@/assets/curso/temas/tema2/in2.png', alt='')
       div(x="50%" y="72%" tooltip="Abrir modal" numero="")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5
             p Verificación y reemplazo de lijas, limpieza y remoción de virutas y polvo. Aplicación de lubricante en ejes y elementos rotacionales y de vibración.
-          .col-lg-7.col-6: img(src='@/assets/curso/temas/tema2/in3.png', alt='')
+          .col-lg-7.col-6: img.img-a.img-t(src='@/assets/curso/temas/tema2/in3.png', alt='')
       div(x="70%" y="28%" tooltip="Abrir modal" numero="")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5
             p En el caso los tornos aplicar las mismas acciones usadas con las herramientas de corte en limpieza y lubricación. En el caso de formones, verificar que las puntas estén lisas y afiladas.
-          .col-lg-7.col-6: img(src='@/assets/curso/temas/tema2/in4.png', alt='')
+          .col-lg-7.col-6: img.img-a.img-t(src='@/assets/curso/temas/tema2/in4.png', alt='')
       div(x="89%" y="72%" tooltip="Abrir modal" numero="")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5
             p Para herramientas de desbaste CNC el mantenimiento es asimilable al de las de corte y lijado, esto es; limpieza y lubricación de partes móviles y reemplazo de empaquetaduras y elementos de desbaste. La misma consideración aplica a las cortadoras láser a excepción del elemento de corte, que debe ser reemplazado o manipulado por personal experto.
-          .col-lg-7.col-6: img(src='@/assets/curso/temas/tema2/in5.png', alt='')
+          .col-lg-7.col-6: img.img-a.img-t(src='@/assets/curso/temas/tema2/in5.png', alt='')
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2 Técnicas para acabados de mobiliarios en madera

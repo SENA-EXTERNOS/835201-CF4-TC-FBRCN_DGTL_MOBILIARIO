@@ -12,7 +12,7 @@
         p El espacio de trabajo para la producción de mobiliario normalmente se define como taller, en algunos casos de organizaciones o empresas robustas o más desarrolladas se cuenta con espacio para el prototipado denominado laboratorio.
           br
           br
-          | En los talleres convencionales es común encontrar todo tipo de elementos.
+          | En los talleres convencionales, frecuentemente se encuentran todo tipo de elementos:
     .row.justify-content-center.mb-5
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta(style="background-color: #F3F9FF ").p-5
@@ -29,11 +29,11 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4(style="background-color: #F3EEEB ")
-          p Las herramientas artesanales son elaboradas a partir de las necesidades particulares del diseñador, carpintero o ebanista. En cualquiera de los casos que corresponda ya sea a un taller o un laboratorio, existen ciertas condiciones o consideraciones que se deben tener en cuenta, a continuación, se encuentran algunas de ellas.
+          p Las herramientas artesanales son elaboradas a partir de las necesidades particulares del diseñador, carpintero o ebanista. En cualquiera de los casos que corresponda, ya sea a un taller o un laboratorio, existen ciertas condiciones o particularidades que se deben tener en cuenta.
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Espacio o mesa de trabajo plana
-    p.mb-5(data-aos='fade-right') Algunas características sobre el espacio o mesa de trabajo.
+    p.mb-5(data-aos='fade-right') Algunas características sobre el espacio o mesa de trabajo, son:
     .row.justify-content-center.mb-5
       .col-lg-10 
         PasosA.color-primario.mb-5(tipo="n")
@@ -56,7 +56,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Líneas eléctricas
-    p.mb-5(data-aos='fade-right') Algunas observaciones sobre las líneas eléctricas.
+    p.mb-5(data-aos='fade-right') Para las líneas eléctricas, se deben tener en cuenta las siguientes observaciones:
     .tarjeta.p-4(style="background-color: #f1fcf3").mb-5
       LineaTiempoC.color-primario(text-small)
         .row(titulo="Paso 1").align-items-center.justify-content-center
@@ -90,7 +90,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Área de cortes
-    p.mb-5(data-aos='fade-right')  A continuación, se presentan algunas características del área de corte.
+    p.mb-5(data-aos='fade-right')  Las áreas de corte deben tener ciertos atributos; veamos cuáles son:
     .row.justify-content-center.mb-5
       .col-lg-10
           LineaTiempoD.color-primario
@@ -125,24 +125,24 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Área de pintura y acabados
-    p.mb-5(data-aos='fade-right') Algunos aspectos del área de pintura y acabados.
+    p.mb-5(data-aos='fade-right') Algunos aspectos para tener en cuenta, del área de pintura y acabados:
     TabsA.color-secundario.mb-5
-      .tarjeta.p-4(titulo="Paso " style="background-color: #e3f2fd ")
+      .tarjeta.p-4(titulo="Paso 1" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
           .col-lg-7
             p El área de pintura y acabados es la última de las fases de un proceso de producción de mobiliario.
           .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/23.png', alt='')
-      .tarjeta.p-4(titulo="Paso " style="background-color: #e3f2fd ")
+      .tarjeta.p-4(titulo="Paso 2" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
           .col-lg-7
             p Aquí una vez es construido o ensamblado el producto y en función del tipo o configuración, ya sea de una sola pieza o de varios materiales, a estos les son aplicados los recubrimientos que, en el caso de la madera y los metales, protegen, recubren y embellecen el producto o prototipo. 
           .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/24.png', alt='')
-      .tarjeta.p-4(titulo="Paso " style="background-color: #e3f2fd ")
+      .tarjeta.p-4(titulo="Paso 3" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
           .col-lg-7
             p Dado que la aplicación de recubrimientos, pinturas o esmaltes es una actividad susceptible a la contaminación, las zonas o área destinadas para este proceso deben estar debidamente aisladas de las de corte o lijado para prevenir que partículas o polvo se adhieran al producto revestido; esto sin importar que el procedimiento empleado sea manual con brocha o pistola neumática o de manera automatizada.
           .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/25.png', alt='')
-      .tarjeta.p-4(titulo="Paso " style="background-color: #e3f2fd ")
+      .tarjeta.p-4(titulo="Paso 4" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
           .col-lg-7
             p Sin importar si el procedimiento es manual con brocha o con pistola neumático, o automatizado mediante brazos robóticos; el área de pintura y acabados debe ser aislada y libre de impurezas que requieran posteriormente revertir el proceso de pintura, aumentando los costos y ralentizando la producción.

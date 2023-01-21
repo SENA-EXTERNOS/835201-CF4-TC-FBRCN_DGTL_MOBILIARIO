@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 5
       h1 Normas de seguridad en el espacio de trabajo
-    p.mb-5(data-aos='fade-right') Es fundamental tener en cuenta las normas de seguridad en el espacio de trabajo, dentro de estas se deben considerar diferentes elementos.
+    p.mb-5(data-aos='fade-right') En el proceso de elaboración de todo tipo de mobiliarios, es fundamental tener en cuenta las normas de seguridad en el espacio de trabajo; dentro de estas normas, se deben tener en cuenta las siguientes consideraciones:
     .tarjeta(style="background-color: #e1e4e9 ").p-5.mb-5
       SlyderA(tipo='b')
         .row.justify-content-center.align-items-center
@@ -17,7 +17,7 @@
           .col-md-6.mb-4.mb-md-0
             p La seguridad en los espacios de trabajo como el taller o laboratorio de producción debe estar dada principalmente por la conciencia situacional de quienes laboran en el lugar.
           .col-md-6.col-10: img(src='@/assets/curso/temas/tema5/2.png', alt='')
-    p.mb-5(data-aos='fade-right') Las normas de seguridad en el espacio de trabajo se dan bajo varios parámetros.
+    p.mb-5(data-aos='fade-right') Las normas de seguridad en el espacio de trabajo, están amparadas por varios parámetros:
     .row.justify-content-center.mb-5
       .col-lg-4
         .tarjeta(style="background-color: #e3f1fc ").p-5.h-100.box-s
@@ -68,7 +68,7 @@
             .col-6.col-sm-6.col-md-4.mb-4.mb-md-0
               img(src="@/assets/curso/temas/tema5/11.svg")
             .col-md.col-lg-6
-              p.mb-4 Se recomienda la revisión del decreto 1072 de 2015, el cual se regula desde el Sistema de Gestión de Seguridad y Salud en el Trabajo en Colombia y éste es de obligatorio cumplimiento y todas las empresas sin importar su naturaleza o tamaño, deben implementarlo. En este se definen los lineamientos y consideraciones necesarias para garantizar la salud en integridad de los trabajadores en sus espacios de actividades .
+              p.mb-4 Se recomienda la revisión del Decreto 1072 de 2015, el cual se regula desde el Sistema de Gestión de Seguridad y Salud en el Trabajo en Colombia y éste es de obligatorio cumplimiento y todas las empresas sin importar su naturaleza o tamaño, deben implementarlo. En este se definen los lineamientos y consideraciones necesarias para garantizar la salud en integridad de los trabajadores en sus espacios de actividades .
               .tarjeta.bg-white.d-flex.p-3.justify-content-between.align-items-center
                 h5.mb-0 Decreto 1072 de 2015
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173" target="_blank" type="application/pdf")
@@ -77,7 +77,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones(style="background-color: #f1fcf3").p-4.mb-4
-          p.mb-0 Es importante explorar los demás recursos que se encuentran disponibles en el presente componente formativo; para hacerlo en el menú principal se encontrará una síntesis, una actividad didáctica y material complementario, entre otros.
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 
