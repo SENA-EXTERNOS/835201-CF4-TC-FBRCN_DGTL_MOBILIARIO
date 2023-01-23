@@ -11,7 +11,8 @@
           figure
             img(src="@/assets/curso/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        p.mb-4 En la siguiente actividad encontrará conceptos relacionados con el contenido de estudio;, los cuales estos le ayudarán a reforzar el conocimiento adquirido. Indique en cada caso si la afirmación es falsa o verdadera:
+        p.mb-4 Esta actividad será de ayuda para repasar y comprobar algunos de los temas estudiados. A continuación, se encuentran conceptos y definiciones que se deben relacionar.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
