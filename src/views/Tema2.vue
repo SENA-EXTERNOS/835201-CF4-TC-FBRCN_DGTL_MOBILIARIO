@@ -21,7 +21,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Las herramientas y el correcto manejo de estas en el espacio de taller de producción de mobiliario facilitan y agilizan las tareas sobre piezas a producirse, la destreza del manejo de las mismas influye directamente en la calidad del producto final.
-    p.mb-5(data-aos='fade-right') Las herramientas para la producción de mobiliarios se dividen de acuerdo con varios elementos como lo son.
+    p.mb-5(data-aos='fade-right') Las herramientas para la producción de mobiliarios se dividen de acuerdo con varios elementos como lo son:
     .row.justify-content-center.mb-5
       .col-lg-4
         .crd_hover_txt(data-aos="flip-left")
