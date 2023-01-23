@@ -72,7 +72,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Herramientas de medición, marcación y sujeción
-    p.mb-5(data-aos='fade-right') Las herramientas de medición, marcación y sujeción se presentan a continuación.
+    p.mb-5(data-aos='fade-right') Las herramientas de medición, marcación y sujeción se presentan a continuación:
     TabsC.color-primario.mb-5
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de marcación")
         .row.justify-content-center.align-item-center.px-3
@@ -114,7 +114,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Herramientas de corte, perforación, lijado y desbaste
-    p.mb-5(data-aos='fade-right') La siguiente infografía contiene algunas de las herramientas más usadas de corte, perforación, lijado y desbaste.
+    p.mb-5(data-aos='fade-right') La siguiente infografía contiene algunas de las herramientas más usadas de corte, perforación, lijado y desbaste:
     //TODO anadir componente modal click 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -205,7 +205,7 @@
             div(titulo="Para las herramientas neumáticas")
               p Para estas aplican las mismas consideraciones que aquellas encargadas del corte respecto a la lubricación e inspección en las juntas o uniones con la línea de aire para la prevención de fugas y pérdida de presión.
       .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/13.png', alt='')
-    p.mb-5(data-aos='fade-right') La siguiente infografía se presenta con base a la clasificación de herramientas presentada anteriormente; en esta se indica el tipo de práctica de mantenimiento preventivo más pertinente para la adecuada y correcta operación y prolongación de vida útil de las mismas.
+    p.mb-5(data-aos='fade-right') La siguiente infografía se presenta con base a la clasificación de herramientas presentada anteriormente; en esta se indica el tipo de práctica de mantenimiento preventivo más pertinente para la adecuada y correcta operación y prolongación de vida útil de las mismas:
     h3.text-center Acciones de mantenimiento recomendadas a herramientas de producción de mobiliario
     //TODO Añadir imagen infogra
     ImagenInfograficaB.color-acento-botones.mb-5
@@ -256,7 +256,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Materiales más usados para los acabados
-    p.mb-5(data-aos='fade-right') Los materiales más usados para el proceso de los acabados y algunas de sus aplicaciones.
+    p.mb-5(data-aos='fade-right') Los materiales más usados para el proceso de los acabados y algunas de sus aplicaciones:
     TabsC.color-primario.mb-5
       .py-4.py-md-5.bg-pestanas(titulo="Masilla plástica para madera")
         .row.justify-content-center.align-item-center.px-3

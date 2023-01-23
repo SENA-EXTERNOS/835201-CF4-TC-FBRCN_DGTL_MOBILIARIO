@@ -15,7 +15,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Selladores
-    p.mb-5(data-aos='fade-right') A continuación, se examinarán un poco más las consideraciones, composición y cuidado general que se debe tener cuando se utiliza un sellador en un producto mobiliario de madera. La información presentada se basa en lo presentado por la Fundación Suyana, (2017).
+    p.mb-5(data-aos='fade-right') A continuación, se examinarán un poco más las consideraciones, composición y cuidado general que se debe tener cuando se utiliza un sellador en un producto mobiliario de madera. La información presentada se basa en lo presentado por la Fundación Suyana, (2017):
     .row.justify-content-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/2.png', alt='')
       .col-lg-8
