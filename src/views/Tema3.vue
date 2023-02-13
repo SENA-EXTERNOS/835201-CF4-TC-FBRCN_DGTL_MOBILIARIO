@@ -15,7 +15,7 @@
         p En el siguiente video, se demuestra en qué consiste el tipo de unión angular, que se lleva a cabo sobre piezas de madera, para lograr acoples o ensambles, sin la necesidad de utilizar elementos mecánicos. La aplicabilidad de esta técnica, otorga un valor agregado al producto final porque, al no ser visible este tipo de uniones, la percepción de calidad y acabado fino pueden influenciar, significativamente, en la determinación de la compra final del cliente:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ks7KUtFjOPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
