@@ -2,8 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-segundo.color-acento-contenido
-            h2 Elementos, herramientas y normas de seguridad en producción
+    
     
     .row.mb-5.justify-content-center.align-items-center
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
@@ -11,6 +10,8 @@
           figure
             img(src="@/assets/curso/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
+        .titulo-segundo.color-acento-contenido
+              h2 Elementos, herramientas y normas de seguridad en producción
         p.mb-4 Esta actividad será de ayuda para repasar y comprobar algunos de los temas estudiados. A continuación, se encuentran conceptos y definiciones que se deben relacionar.
 
         .tarjeta.actividad.p-3
