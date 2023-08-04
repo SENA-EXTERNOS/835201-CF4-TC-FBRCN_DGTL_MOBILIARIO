@@ -44,7 +44,7 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Sellantes
-    p.mb-5(data-aos='fade-right') Otros productos que muy utilizados en la producción de mobiliario de madera son los sellantes; estos normalmente se encuentran en el mercado con la presentación de siliconas utilizadas para la unión de partes ya sea entre maderas o entre estas y otros materiales. 
+    p.mb-5(data-aos='fade-right') Otros productos que son muy utilizados en la producción de mobiliario de madera son los sellantes; estos normalmente se encuentran en el mercado con la presentación de siliconas utilizadas para la unión de partes ya sea entre maderas o entre estas y otros materiales. 
       br
       br
       | Los sellantes son productos que cumplen su función, en la medida que se utilizan de forma correcta:

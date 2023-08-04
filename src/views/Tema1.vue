@@ -73,7 +73,7 @@
           .col-md-5.col-10: img(src='@/assets/curso/temas/tema1/11.png', alt='')
         .row(titulo="Paso 4").align-items-center.justify-content-center
           .col-md-7.mb-4.mb-md-0
-            p También es posible encontrar ye idealmente disponer de rieles aéreos sobre las estaciones o mesas de trabajo; teniendo acceso a tomas de energía eléctrica tanto de 110 o 220 voltios ya que estas permiten la instalación y puesta en marcha de maquinaria rápidamente. 
+            p También es posible encontrar e idealmente disponer de rieles aéreos sobre las estaciones o mesas de trabajo; teniendo acceso a tomas de energía eléctrica tanto de 110 o 220 voltios ya que estas permiten la instalación y puesta en marcha de maquinaria rápidamente. 
           .col-md-5.col-10: img(src='@/assets/curso/temas/tema1/12.png', alt='')
         .row(titulo="Paso 5").align-items-center.justify-content-center
           .col-md-7.mb-4.mb-md-0
@@ -96,7 +96,7 @@
           LineaTiempoD.color-primario
             .row(numero="1" titulo="Paso 1").justify-content-center
               .col-lg-7
-                p El área o zona de cortes es uno de los componentes más críticos y peligros de cualquier espacio de trabajo, taller o laboratorio para la producción de mobiliarios pues a menos de que se utilicen cortadoras de control numérico computacional CNC las tareas de corte se llevan a cabo a través de herramientas manuales o eléctricas, las cuales representan un peligro latente siempre que son utilizadas.
+                p El área o zona de cortes es uno de los componentes más críticos y peligrosos de cualquier espacio de trabajo, taller o laboratorio para la producción de mobiliarios pues a menos de que se utilicen cortadoras de control numérico computacional CNC las tareas de corte se llevan a cabo a través de herramientas manuales o eléctricas, las cuales representan un peligro latente siempre que son utilizadas.
               .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/16.png', alt='')
             .row(numero="2" titulo="Paso 2").justify-content-center
               .col-lg-7
