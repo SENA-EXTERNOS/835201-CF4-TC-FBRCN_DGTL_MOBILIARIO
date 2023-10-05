@@ -31,10 +31,10 @@
             .crd_hover_txt--body.w-100
               h4.mb-3.text-center Tipo de herramienta
 
-              p.mb-0.text-center  Para la producción de mobiliarios, las herramientas se dividen en: 
+              p.mb-0.text-center  Para la producción de mobiliarios, las herramientas se dividen en:
                 br
                 br
-                |● Eléctricas 
+                |● Eléctricas
                 br
                 |● Manuales
                 br
@@ -46,14 +46,14 @@
                 img(src="@/assets/curso/temas/tema2/4.jpg", alt="alt")
             .crd_hover_txt--body.w-100
               h4.mb-3.text-center Según su función
-              p.mb-0.text-center Los tipos de herramientas a su vez se dividen en función del uso en herramientas de: 
-                br 
+              p.mb-0.text-center Los tipos de herramientas a su vez se dividen en función del uso en herramientas de:
+                br
                 br
                 | ● Corte
                 br
                 |● Desbaste
                 br
-                |● Perforación 
+                |● Perforación
       .col-lg-4
         .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
@@ -64,9 +64,9 @@
               p.mb-0.text-center Estas pueden ser manuales o digitales, utilizadas para labores precisas:
                 br
                 br
-                | ● Herramientas de marcación. 
+                | ● Herramientas de marcación.
                 br
-                |● Herramientas de medición. 
+                |● Herramientas de medición.
                 br
                 |● Herramientas de sujeción.
     .titulo-cuadro.d-flex
@@ -77,10 +77,10 @@
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de marcación")
         .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
-            p Estas son de las más conocidas incluso por fuera del campo de la carpintería. Dentro de estas se encuentran lápices y en ocasiones marcadores, vistos todos en los componentes anteriores. 
+            p Estas son de las más conocidas incluso por fuera del campo de la carpintería. Dentro de estas se encuentran lápices y en ocasiones marcadores, vistos todos en los componentes anteriores.
               br
               br
-              |Existen herramientas de marcación tipo láser que se utilizan para agilizar y mejorar la precisión en la señalización de secciones. El marcador o nivel láser permite utilizar el destello de luz para hacer marcaciones precisas y cortes exactos sobre piezas y partes del producto de manera proyectada en secciones largas y cortas. 
+              |Existen herramientas de marcación tipo láser que se utilizan para agilizar y mejorar la precisión en la señalización de secciones. El marcador o nivel láser permite utilizar el destello de luz para hacer marcaciones precisas y cortes exactos sobre piezas y partes del producto de manera proyectada en secciones largas y cortas.
           .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/6.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de medición")
         .row.justify-content-center.align-item-center.px-3
@@ -93,10 +93,10 @@
       .py-4.py-md-5.bg-pestanas(titulo="Herramientas de sujeción")
         .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
-            p Como su nombre lo indica son herramientas de apoyo a la labor del diseñador, ebanista o carpintero que permiten sujetar y asegurar el material para operaciones de corte y perforado de piezas o secciones de piezas; esto para prevenir el movimiento brusco de éstas y garantizando la firmeza requerida para la obtención de un corte preciso o una perforación adecuada. 
+            p Como su nombre lo indica son herramientas de apoyo a la labor del diseñador, ebanista o carpintero que permiten sujetar y asegurar el material para operaciones de corte y perforado de piezas o secciones de piezas; esto para prevenir el movimiento brusco de éstas y garantizando la firmeza requerida para la obtención de un corte preciso o una perforación adecuada.
               br
               br
-              |Estos también se utilizan en los procesos de ensamble final, donde se usan pegantes, los cuales generalmente requieren un tiempo de secado o curado con la aplicación de una fuerza de presión constante. 
+              |Estos también se utilizan en los procesos de ensamble final, donde se usan pegantes, los cuales generalmente requieren un tiempo de secado o curado con la aplicación de una fuerza de presión constante.
               br
               br
               |Dentro de este tipo de herramientas se encuentran:
@@ -115,7 +115,7 @@
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Herramientas de corte, perforación, lijado y desbaste
     p.mb-5(data-aos='fade-right') La siguiente infografía contiene algunas de las herramientas más usadas de corte, perforación, lijado y desbaste:
-    //TODO anadir componente modal click 
+    //TODO anadir componente modal click
     .row.justify-content-center.mb-5
       .col-lg-10
         ImagenInfograficaB.color-acento-botones.mb-5
@@ -138,10 +138,10 @@
                 h5.text-center Herramientas manuales
                 img(src='@/assets/curso/temas/tema2/i3.png', alt='').m-auto
               .col-lg-8
-                h5.text-center Herramientas eléctricas/ neumáticas
+                h5.text-center Herramientas eléctricas/neumáticas
                 img(src='@/assets/curso/temas/tema2/i4.png', alt='').m-auto
           div(x="42%" y="72.5%" tooltip="Abir modal" numero="")
-            h4.mb-2.text-center Herramientas de lijado y desbaste 
+            h4.mb-2.text-center Herramientas de lijado y desbaste
             .row.justify-content-center.mb-5
               .col-lg-4
                 h5.text-center Herramientas manuales
@@ -160,10 +160,10 @@
       h2 2.1 Mantenimiento básico de equipos para la producción
     .row.justify-content-center.mb-5
       .col-lg-4.col-10(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/9.png', alt='')
-      .col-lg-8 
+      .col-lg-8
         p La adquisición de herramientas representa un componente y esfuerzo económico o financiero por parte del diseñador, carpintero o ebanista; en este sentido, el correcto y adecuado mantenimiento de éstas permite condiciones de trabajo cómodas y seguras, estos cuidados ayudan además a la conservación de la inversión realizada.
         .cajon.color-primario(style="background-color: #e2e5ea").p-4.mb-4
-          p.mb-0 En cualquiera de los procesos productivos que se llevan a cabo en el ámbito industrial el uso e implementación de herramientas conlleva al mantenimiento de estas. El adecuado mantenimiento de estos activos prolonga su tiempo de vida útil y valoriza la inversión efectuada por el diseñador, carpintero, ebanista u organización. Para la aplicación o ejecución del mantenimiento se deben tener en cuenta los tipos de herramientas, las cuales como se vio anteriormente pueden dividirse en manuales, eléctricas y neumáticas. 
+          p.mb-0 En cualquiera de los procesos productivos que se llevan a cabo en el ámbito industrial el uso e implementación de herramientas conlleva al mantenimiento de estas. El adecuado mantenimiento de estos activos prolonga su tiempo de vida útil y valoriza la inversión efectuada por el diseñador, carpintero, ebanista u organización. Para la aplicación o ejecución del mantenimiento se deben tener en cuenta los tipos de herramientas, las cuales como se vio anteriormente pueden dividirse en manuales, eléctricas y neumáticas.
     p.mb-5(data-aos='fade-right') Es importante identificar las dos principales filosofías de mantenimiento.
     .row.justify-content-center.mb-5
       .col-lg-4
@@ -172,7 +172,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/10.jpg", alt="alt")
           .crd_hover2_txt--body.w-100.text-white
-            h4.mb-3.text-center Mantenimiento preventivo 
+            h4.mb-3.text-center Mantenimiento preventivo
 
             p.mb-0.text-center Puede ser definido como una lista completa de actividades, todas ellas realizadas por usuarios, operadores y agentes especializados para asegurar el correcto funcionamiento de la planta, edificios, máquinas, equipos, vehículos, etc. (Mantenimiento Planificado. s/f).
       .col-lg-4
@@ -199,7 +199,7 @@
             div(titulo="Roce entre componentes")
               p En maquinaria o herramientas de rotación como prensas, sierras, etc. el roce continuo entre sus componentes requiere limpieza y lubricación constante; a esta práctica se le denomina tribología.
             div(titulo="Para las herramientas de corte")
-              p En el caso de estas herramientas tanto eléctricas como manuales es importante tener en cuenta que los componentes son fabricados en acero y están sujetos a oxidación y pérdida de filo, la verificación del estado de estos es fundamental para la preservación de la herramienta completa. 
+              p En el caso de estas herramientas tanto eléctricas como manuales es importante tener en cuenta que los componentes son fabricados en acero y están sujetos a oxidación y pérdida de filo, la verificación del estado de estos es fundamental para la preservación de la herramienta completa.
             div(titulo="Para las herramientas eléctricas")
               p Para estas los contactos de los cables internos son susceptibles a oxidación o daño por contaminación de material particulado y humedad.
             div(titulo="Para las herramientas neumáticas")
@@ -241,9 +241,9 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2 Técnicas para acabados de mobiliarios en madera
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/14.svg', alt='') 
+      .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/14.svg', alt='')
       .col-lg-10
-        p.mb-0 Los acabados sobre las superficies de madera son actividades que se llevan a cabo en la última fase del proceso de fabricación de productos y prototipos de mobiliarios, esto con el fin de resaltar los atributos físicos de la madera o para generar o recrear otros. Existen diferentes tipos de técnicas que se pueden aplicar a las superficies de madera de los productos mobiliarios, cada una de estas varía según el grado de experiencia, innovación y muchos otros como la creatividad por parte del diseñador, carpintero o ebanista; sin embrago, en este capítulo se revisarán los más generales y populares.
+        p.mb-0 Los acabados sobre las superficies de madera son actividades que se llevan a cabo en la última fase del proceso de fabricación de productos y prototipos de mobiliarios, esto con el fin de resaltar los atributos físicos de la madera o para generar o recrear otros. Existen diferentes tipos de técnicas que se pueden aplicar a las superficies de madera de los productos mobiliarios, cada una de estas varía según el grado de experiencia, innovación y muchos otros como la creatividad por parte del diseñador, carpintero o ebanista; sin embargo, en este capítulo se revisarán los más generales y populares.
     .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-derecha
@@ -261,7 +261,7 @@
       .py-4.py-md-5.bg-pestanas(titulo="Masilla plástica para madera")
         .row.justify-content-center.align-item-center.px-3
           .col-md-6.mb-4.mb-md-0
-            p En ocasiones al finalizar el proceso de ensamble pero antes de iniciar con la fase de acabados, es muy probable que se hayan generado grietas o daños sobre partes o secciones de las piezas del producto, estas afectaciones por lo general tienen cierta profundidad sobre la madera que de no ser debidamente tratadas ocasionan distorsión en la presentación final del producto; generando una mala percepción o sensación antiestética por parte del cliente, para estos casos, se utilizan las masillas plástica para madera. Estas masillas se aplican sobre las imperfecciones con espátulas o de manera manual con tiempos de secado entre los 15 y 30 minutos, las presentaciones en las que se pueden presentar de manera comercial son tonos de maderas claros y oscuros.
+            p En ocasiones al finalizar el proceso de ensamble pero antes de iniciar con la fase de acabados, es muy probable que se hayan generado grietas o daños sobre partes o secciones de las piezas del producto, estas afectaciones por lo general tienen cierta profundidad sobre la madera que de no ser debidamente tratadas ocasionan distorsión en la presentación final del producto; generando una mala percepción o sensación antiestética por parte del cliente, para estos casos, se utilizan las masillas plásticas para madera. Estas masillas se aplican sobre las imperfecciones con espátulas o de manera manual con tiempos de secado entre los 15 y 30 minutos, las presentaciones en las que se pueden presentar de manera comercial son tonos de maderas claros y oscuros.
           .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/16.png', alt='')
       .py-4.py-md-5.bg-pestanas(titulo="Lacas y esmaltes")
         .row.justify-content-center.align-item-center.px-3

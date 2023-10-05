@@ -8,7 +8,7 @@
       h1 Producción y espacio de trabajo de mobiliario de madera
     .row.justify-content-center.mb-5
       .col-lg-3.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/1.png', alt='')
-      .col-lg-9(data-aos="fade-left") 
+      .col-lg-9(data-aos="fade-left")
         p El espacio de trabajo para la producción de mobiliario normalmente se define como taller, en algunos casos de organizaciones o empresas robustas o más desarrolladas se cuenta con espacio para el prototipado denominado laboratorio.
           br
           br
@@ -33,9 +33,9 @@
     .titulo-cuadro.d-flex
       i.fas.fa-square(style="color: #3bc192").me-3
       h4 Espacio o mesa de trabajo plana
-    p.mb-5(data-aos='fade-right') Algunas características sobre el espacio o mesa de trabajo, son:
+    p.mb-5(data-aos='fade-right') Algunas características sobre el espacio o mesa de trabajo son:
     .row.justify-content-center.mb-5
-      .col-lg-10 
+      .col-lg-10
         PasosA.color-primario.mb-5(tipo="n")
           .row(titulo="").justify-content-between.align-items-center.text-start
             .col-md-6.mb-4.mb-md-0
@@ -45,11 +45,11 @@
             .col-md-5: img(src='@/assets/curso/temas/tema1/6.png', alt='')
             .col-md-6.mb-4.mb-md-0
               p En la mesa de trabajo el diseñador, ebanista o carpintero revisa los diseños, planimetría o utiliza dispositivos electrónicos como computadores o tabletas para visualización o revisión de documentos, este espacio o mesa plana puede ser un escritorio.
-          .row(titulo="").justify-content-between.align-items-center 
+          .row(titulo="").justify-content-between.align-items-center
             .col-md-6.mb-4.mb-md-0
               p Es importante que la superficie que compone este espacio sea lo más lisa posible y sin imperfecciones, ya que estos pueden ocasionar la rotura del plano o documento sobre el cual el diseñador, carpintero o ebanista esté trabajando.
             .col-md-5: img(src='@/assets/curso/temas/tema1/7.png', alt='')
-          .row(titulo="").justify-content-between.align-items-center.text-start 
+          .row(titulo="").justify-content-between.align-items-center.text-start
             .col-md-5: img(src='@/assets/curso/temas/tema1/8.png', alt='')
             .col-md-6.mb-4.mb-md-0
               p Durante la producción o elaboración de prototipo el diseñador, carpintero o ebanista está sujeto a la toma de notas y anotación de tareas.
@@ -73,7 +73,7 @@
           .col-md-5.col-10: img(src='@/assets/curso/temas/tema1/11.png', alt='')
         .row(titulo="Paso 4").align-items-center.justify-content-center
           .col-md-7.mb-4.mb-md-0
-            p También es posible encontrar e idealmente disponer de rieles aéreos sobre las estaciones o mesas de trabajo; teniendo acceso a tomas de energía eléctrica tanto de 110 o 220 voltios ya que estas permiten la instalación y puesta en marcha de maquinaria rápidamente. 
+            p También es posible encontrar e idealmente disponer de rieles aéreos sobre las estaciones o mesas de trabajo; teniendo acceso a tomas de energía eléctrica tanto de 110 o 220 voltios ya que estas permiten la instalación y puesta en marcha de maquinaria rápidamente.
           .col-md-5.col-10: img(src='@/assets/curso/temas/tema1/12.png', alt='')
         .row(titulo="Paso 5").align-items-center.justify-content-center
           .col-md-7.mb-4.mb-md-0
@@ -96,7 +96,7 @@
           LineaTiempoD.color-primario
             .row(numero="1" titulo="Paso 1").justify-content-center
               .col-lg-7
-                p El área o zona de cortes es uno de los componentes más críticos y peligrosos de cualquier espacio de trabajo, taller o laboratorio para la producción de mobiliarios pues a menos de que se utilicen cortadoras de control numérico computacional CNC las tareas de corte se llevan a cabo a través de herramientas manuales o eléctricas, las cuales representan un peligro latente siempre que son utilizadas.
+                p El área o zona de cortes es uno de los componentes más críticos y peligrosos de cualquier espacio de trabajo, taller o laboratorio para la producción de mobiliarios pues, a menos de que se utilicen cortadoras de control numérico computacional CNC, las tareas de corte se llevan a cabo a través de herramientas manuales o eléctricas, las cuales representan un peligro latente siempre que son utilizadas.
               .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/16.png', alt='')
             .row(numero="2" titulo="Paso 2").justify-content-center
               .col-lg-7
@@ -116,7 +116,7 @@
               .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/20.png', alt='')
             .row(numero="6" titulo="Paso 6").justify-content-center
               .col-lg-7
-                p La imagen muestra una máquina de cepillado eléctrico, esta se encarga de suavizar las piezas y quitar las asperezas o fragmentos de material que sobresalen de un proceso de corte mediante la aplicación de lijas en movimiento. 
+                p La imagen muestra una máquina de cepillado eléctrico, esta se encarga de suavizar las piezas y quitar las asperezas o fragmentos de material que sobresalen de un proceso de corte mediante la aplicación de lijas en movimiento.
               .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/21.png', alt='')
             .row(numero="7" titulo="Paso 7").justify-content-center
               .col-lg-7
@@ -135,7 +135,7 @@
       .tarjeta.p-4(titulo="Paso 2" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
           .col-lg-7
-            p Aquí una vez es construido o ensamblado el producto y en función del tipo o configuración, ya sea de una sola pieza o de varios materiales, a estos les son aplicados los recubrimientos que, en el caso de la madera y los metales, protegen, recubren y embellecen el producto o prototipo. 
+            p Aquí una vez es construido o ensamblado el producto y en función del tipo o configuración, ya sea de una sola pieza o de varios materiales, a estos les son aplicados los recubrimientos que, en el caso de la madera y los metales, protegen, recubren y embellecen el producto o prototipo.
           .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/24.png', alt='')
       .tarjeta.p-4(titulo="Paso 3" style="background-color: #e3f2fd ")
         .row.justify-content-center.align-items-center
@@ -147,8 +147,8 @@
           .col-lg-7
             p Sin importar si el procedimiento es manual con brocha o con pistola neumático, o automatizado mediante brazos robóticos; el área de pintura y acabados debe ser aislada y libre de impurezas que requieran posteriormente revertir el proceso de pintura, aumentando los costos y ralentizando la producción.
           .col-lg-5.col-10: img(src='@/assets/curso/temas/tema1/26.png', alt='')
-    
-      
+
+
 
 
 

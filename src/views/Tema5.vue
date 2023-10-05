@@ -11,7 +11,7 @@
       SlyderA(tipo='b')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La seguridad en el trabajo en el proceso de diseño y producción de mobiliario al igual que en cualquier otro campo de la producción, está dada por una serie de criterios y consideraciones orientadas a mantener la integridad física y mental del trabajador y de quienes intervienen en cualquier actividad del proceso productivo. 
+            p La seguridad en el trabajo en el proceso de diseño y producción de mobiliario al igual que en cualquier otro campo de la producción, está dada por una serie de criterios y consideraciones orientadas a mantener la integridad física y mental del trabajador y de quienes intervienen en cualquier actividad del proceso productivo.
           .col-md-6.col-10: img(src='@/assets/curso/temas/tema5/1.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -30,7 +30,7 @@
           img(src='@/assets/curso/temas/tema5/4.png', alt='').m-auto.mb-3
           .text-center
             h5 Medidas y condiciones
-            p En esta índole los elementos locativos deben ser los idóneas para adelantar o llevar cabo las tareas y actividades que se requieran.
+            p En esta índole los elementos locativos deben ser los idóneos para adelantar o llevar cabo las tareas y actividades que se requieran.
     p.mb-5(data-aos='fade-right') Las medidas y condiciones locativas mínimas para el espacio de trabajo son:
     .row.justify-content-center.mb-5
       .col-lg-4
@@ -47,7 +47,7 @@
       .py-4.py-md-5(titulo="Luz" :icono="require('@/assets/curso/temas/tema5/7.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            p Tanto la luz y como la ventilación hacen parte del conjunto de elementos locativos mínimos para la seguridad en el trabajo, así como la electricidad. 
+            p Tanto la luz y como la ventilación hacen parte del conjunto de elementos locativos mínimos para la seguridad en el trabajo, así como la electricidad.
               br
               br
               |En este caso en particular y como se indicó en el desarrollo del tema de herramientas, es indispensable que la red cumpla con los criterios establecidos por las normas de construcción para la prevención de cortos circuitos que puedan generar incendios, daños o mal funcionamiento en las herramientas o equipos operados por las personas.
